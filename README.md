@@ -1,4 +1,4 @@
-<img width="81" height="25" alt="image" src="https://github.com/user-attachments/assets/856fa684-a487-42ac-8b62-9df34961fb47" /># ML-Classification-Streamlit-App
+# ML-Classification-Streamlit-App
 Machine Learning Classification Models with Streamlit Deployment
 # Machine Learning Classification using Streamlit
 
