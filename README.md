@@ -12,9 +12,10 @@ The objective of this project is to implement and compare multiple machine learn
 
 The Breast Cancer dataset contains medical attributes computed from digitized images of breast mass cell nuclei.
 
-- Total Instances: 569
-- Number of Features: 30
-- Target Variable: target (0 = Benign, 1 = Malignant)
+- Dataset: Breast Cancer Dataset
+- Instances: 569
+- Features: 30 numerical features
+- Target: target (0 = Benign, 1 = Malignant)
 
 ---
 
